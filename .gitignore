@@ -1,0 +1,26 @@
+﻿# Visual Studio / .NET
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.pdb
+*.dll
+
+# Tools
+.tools/
+
+# Logs
+**/logs/
+Logs/
+
+# App settings with secrets
+**/appsettings.json
+**/appsettings.Development.json
+
+# Publish
+publish/
+
+# OS
+Thumbs.db
+.DS_Store
